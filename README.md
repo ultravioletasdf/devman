@@ -1,6 +1,6 @@
 # Devman 
 
-`v0.0.0`
+`v0.0.1`
 
 A simple command tool to run multiple services, allowing you to define services to wait for before to starting.
 
