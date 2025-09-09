@@ -1,4 +1,4 @@
-module devman
+module github.com/ultravioletasdf/devman
 
 go 1.25.1
 
