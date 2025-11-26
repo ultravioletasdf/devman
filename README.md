@@ -11,7 +11,7 @@ It also allows you to load a .env file to the environment
 Devman requires a config file to run. This must be called dev.yaml in the CWD.
 
 ```yaml
-env_file = ".env" # This file is loaded by defeault
+env_file = ".env" # This file is loaded by default
 
 services:
     name:
